@@ -1,0 +1,40 @@
+body {
+	background:  peachpuff;
+	padding:  2rem;
+	font-size:  1.2rem;
+}
+
+
+h1 {
+	text-align: center;
+	background: bisque;
+	font-size: 3rem;
+	padding:  10px;
+	color:  blueviolet;
+	border: 2px solid blueviolet;
+}
+
+.header {
+	padding:  0;
+	margin:  0;
+	background-color:  bisque;
+	min-height:  200px;
+	display:  flex;
+	justify-content: space-around;
+}
+
+img {
+	width:  150px;
+	height: 150px;
+	padding:  60px 0;
+}
+
+.opening-text {
+	width:  60%;
+	font-size:  1.5rem;
+	padding:  60 0;
+}
+
+a:hover {
+	color:  purple;
+}
